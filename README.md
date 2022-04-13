@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leigh-grigaliunas
 - 👀 I’m interested in fun sports
-- 🌱 I’m currently learning to be a Saleforce Developer
+- 🌱 I’m currently learning to be a Salesforce Developer
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me https://www.linkedin.com/in/leighg/
 
